@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SystemTray.qml</file>
+        <file>images/logo.ico</file>
+        <file>images/logo_1.ico</file>
+        <file>ConfigureView.qml</file>
+    </qresource>
+</RCC>
